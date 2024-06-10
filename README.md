@@ -4,11 +4,6 @@
 
 ## Soy un abogado, programador y  estudiante!!
 
-- 🌱 Actualmente aprendiendo todo lo necesario para empezar en esta nueva rama. 🤣
-- 👯 Busco gente con la que colaborar en proyectos emocionantes.
-- 🥅 Metas del 2021: Dar un giro completo a mi carrera profesional.
-- ⚡ Me encanta aprender algo nuevo cada día.
-
 ### Contacta conmigo:
 
 [<img align="left" alt="GariHV | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
