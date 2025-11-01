@@ -67,14 +67,5 @@ This dual foundation allows me to:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garikoitz&theme=nord" alt="Garikoitz Streak" />
 </p>
 
----
-
-## ✉️ Get in Touch
-
-You can find me and connect with me here:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Link to your LinkedIn Profile])
-[![Twitter](https://img.shields.com/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([Link to your Twitter or X Profile])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[Your Email Address])
 
 **Thank you for visiting my profile!** 🚀
