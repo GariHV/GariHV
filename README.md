@@ -21,16 +21,21 @@ I currently focus on **Full-Stack development**, centered on the JavaScript ecos
 
 My experience ranges from Frontend and Backend development to database management and API architecture.
 
+### Development Languages & Core Tools
+| Technology | Description |
+| :---: | :--- |
+| **TypeScript (TS)** | **Core language** for writing highly scalable, type-safe code across the entire stack (Frontend and Backend). |
+
 ### Frontend & Mobile Development
 | Technology | Description |
 | :---: | :--- |
-| **React** | Experienced in building modern, dynamic user interfaces and component-based architectures. |
-| **Angular** | Developing complex, large-scale web applications using the Google platform. |
+| **React** | Experienced in building modern, dynamic user interfaces and component-based architectures, often leveraging **TypeScript** for robustness. |
+| **Angular** | Developing complex, large-scale web applications using the Google platform, typically within a **TypeScript** environment. |
 
 ### Backend & APIs
 | Technology | Description |
 | :---: | :--- |
-| **Node.js** | Creating scalable servers and microservices with Express and TypeScript. |
+| **Node.js** | Creating scalable servers and microservices with Express and **TypeScript** for improved maintainability. |
 | **GraphQL** | Designing and implementing efficient and flexible APIs to optimize data fetching. |
 | **Java** | Developing enterprise applications, primarily microservices with Spring Boot. |
 | **C#** | Developing within the **.NET** environment and familiar with the Microsoft ecosystem. |
@@ -69,7 +74,7 @@ This dual foundation allows me to:
 You can find me and connect with me here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Link to your LinkedIn Profile])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([Link to your Twitter or X Profile])
+[![Twitter](https://img.shields.com/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([Link to your Twitter or X Profile])
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[Your Email Address])
 
 **Thank you for visiting my profile!** 🚀
