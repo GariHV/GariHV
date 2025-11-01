@@ -1,75 +1,75 @@
-# 👋 ¡Hola! Soy Garikoitz
-### Desarrollador de Software & Abogado
+# 👋 Hello! I'm Garikoitz
+### Software Developer & Lawyer
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Garikoitz&style=flat-square&color=blue" alt="Perfil Vistas" /> 
-  <img src="https://img.shields.io/github/followers/Garikoitz?label=Follow&style=flat-square&color=green" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/Garikoitz?label=Estrellas&style=flat-square&color=yellow" alt="Estrellas" />
+  <img src="https://komarev.com/ghpvc/?username=Garikoitz&style=flat-square&color=blue" alt="Profile Views" /> 
+  <img src="https://img.shields.io/github/followers/Garikoitz?label=Follow&style=flat-square&color=green" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Garikoitz?label=Stars&style=flat-square&color=yellow" alt="Stars" />
 </p>
 
 ---
 
-## 💻 Sobre Mí
+## 💻 About Me
 
-Soy **Garikoitz**, un profesional apasionado por el desarrollo de software y la resolución de problemas complejos. Mi misión es construir soluciones robustas y escalables, combinando una mentalidad técnica con la precisión y el rigor que he adquirido en mi formación legal.
+I'm **Garikoitz**, a professional passionate about software development and complex problem-solving. My mission is to build robust and scalable solutions, combining a technical mindset with the precision and rigor I acquired from my legal background.
 
-Actualmente, me enfoco en el desarrollo **Full-Stack**, centrado en ecosistemas de JavaScript y tecnologías empresariales.
+I currently focus on **Full-Stack development**, centered on the JavaScript ecosystem and enterprise technologies.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Technology Stack
 
-Mi experiencia abarca desde el desarrollo Frontend y Backend hasta la gestión de bases de datos y la arquitectura de APIs.
+My experience ranges from Frontend and Backend development to database management and API architecture.
 
-### Desarrollo Frontend & Mobile
-| Tecnología | Descripción |
+### Frontend & Mobile Development
+| Technology | Description |
 | :---: | :--- |
-| **React** | Experiencia construyendo interfaces de usuario modernas y dinámicas. |
-| **Angular** | Desarrollo de aplicaciones web complejas y de gran escala utilizando la plataforma de Google. |
+| **React** | Experienced in building modern, dynamic user interfaces and component-based architectures. |
+| **Angular** | Developing complex, large-scale web applications using the Google platform. |
 
-### Desarrollo Backend & APIs
-| Tecnología | Descripción |
+### Backend & APIs
+| Technology | Description |
 | :---: | :--- |
-| **Node.js** | Creación de servidores y microservicios escalables con Express y TypeScript. |
-| **GraphQL** | Diseño e implementación de APIs flexibles y eficientes para optimizar la transferencia de datos. |
-| **PHP** | Mantenimiento y desarrollo de proyectos legacy y modernos (Laravel/Symfony). |
-| **Java** | Desarrollo de aplicaciones empresariales, microservicios con Spring Boot. |
-| **C#** | Desarrollo en entornos .NET y familiaridad con el ecosistema de Microsoft. |
+| **Node.js** | Creating scalable servers and microservices with Express and TypeScript. |
+| **GraphQL** | Designing and implementing efficient and flexible APIs to optimize data fetching. |
+| **Java** | Developing enterprise applications, primarily microservices with Spring Boot. |
+| **C#** | Developing within the **.NET** environment and familiar with the Microsoft ecosystem. |
+| **PHP** | Maintenance and development of legacy and modern projects (e.g., Laravel/Symfony). |
 
-### Bases de Datos
-| Tecnología | Tipo | Descripción |
+### Databases
+| Technology | Type | Description |
 | :---: | :---: | :--- |
-| **MySQL** | Relacional | Experiencia en diseño de esquemas, optimización de consultas y procedimientos almacenados. |
-| **MongoDB** | NoSQL | Gestión de datos flexibles y escalables para aplicaciones modernas. |
+| **MySQL** | Relational | Expertise in schema design, query optimization, and stored procedures. |
+| **MongoDB** | NoSQL | Managing flexible, scalable data for modern, high-volume applications. |
 
 ---
 
-## ⚖️ Curiosidades: Mi Doble Vida
+## ⚖️ Fun Fact: My Dual Life
 
-Lo que realmente me diferencia es mi formación en **Derecho**. Sí, además de ser desarrollador, soy **Abogado**.
+What truly sets me apart is my background in **Law**. Yes, in addition to being a developer, I am a **qualified Lawyer**.
 
-Esta doble formación me permite:
-* **Pensamiento Crítico:** Abordar los requisitos del software con una comprensión profunda de las implicaciones legales, de privacidad (*compliance*) y de negocio.
-* **Estructura y Lógica:** Aplicar una metodología rigurosa y lógica a la arquitectura del código y la documentación.
-* **Comunicación:** Traducir conceptos técnicos complejos a audiencias no técnicas.
+This dual foundation allows me to:
+* **Critical Thinking:** Approach software requirements with a deep understanding of legal, privacy, and business implications.
+* **Structure and Logic:** Apply a rigorous, logical methodology to code architecture and documentation.
+* **Communication:** Effectively translate complex technical concepts to non-technical stakeholders.
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Garikoitz&show_icons=true&theme=nord" alt="Estadísticas de Garikoitz" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garikoitz&theme=nord" alt="Racha de Garikoitz" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Garikoitz&show_icons=true&theme=nord" alt="Garikoitz GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garikoitz&theme=nord" alt="Garikoitz Streak" />
 </p>
 
 ---
 
-## ✉️ Contacto
+## ✉️ Get in Touch
 
-Puedes encontrarme y conectar conmigo en:
+You can find me and connect with me here:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Enlace a tu Perfil de LinkedIn])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([Enlace a tu Perfil de Twitter o X])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[Tu Correo Electrónico])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Link to your LinkedIn Profile])
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([Link to your Twitter or X Profile])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[Your Email Address])
 
-**¡Gracias por visitar mi perfil!** 🚀
+**Thank you for visiting my profile!** 🚀
